@@ -2,7 +2,7 @@
 
 <img src="./frdkCrb.jpg">
 
-# Requirements
+* Requirements
 * General
 
 * All your files will be interpreted on Ubuntu 14.04 LTS
@@ -13,4 +13,3 @@
 * Your Puppet manifests first line must be a comment explaining what the Puppet manifest is about
 * Your Puppet manifests files must end with the extension .pp
 Files will be checked with Puppet v3.4
-
